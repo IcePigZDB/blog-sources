@@ -44,8 +44,8 @@ jobs:
           USE_SSH: true
           GIT_USER: git
         run: |
-          git config --global user.email "109823130@qq.com"
-          git config --global user.name "R-craft"
+          git config --global user.email "zdb424395031@gmail.com"
+          git config --global user.name "IcePigZDB"
           hexo clean
           hexo generate
           hexo deploy
