@@ -93,13 +93,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: geek
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:  git@github.com:R-craft/R-craft.github.io.git
+  repo: git@github.com:IcePigZDB/icepigzdb.github.io.git
   branch: master
 
 sitemap:
