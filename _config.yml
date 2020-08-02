@@ -99,7 +99,7 @@ theme: geek
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:IcePigZDB/icepigzdb.github.io.git
+  repo: git@gitee.com:IcePigZDB/blog.git
   branch: master
 
 sitemap:
